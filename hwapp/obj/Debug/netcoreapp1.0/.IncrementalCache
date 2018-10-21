@@ -1,1 +1,0 @@
-{"inputs":["/root/hwapp/project.json","/root/hwapp/project.lock.json","/root/hwapp/Program.cs"],"outputs":["/root/hwapp/bin/Debug/netcoreapp1.0/hwapp.dll","/root/hwapp/bin/Debug/netcoreapp1.0/hwapp.pdb","/root/hwapp/bin/Debug/netcoreapp1.0/hwapp.deps.json","/root/hwapp/bin/Debug/netcoreapp1.0/hwapp.runtimeconfig.json"],"buildArguments":{"version-suffix":null}}
